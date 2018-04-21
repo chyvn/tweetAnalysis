@@ -3,7 +3,7 @@
 Complete Notebook link : https://drive.google.com/file/d/1V8Sl8WW_X7GuOuM-lJZ7oSwy0zfDF1jP/view?usp=sharing
 
 
-## Step 1: Get tweets.
+## Step 1: Get tweets. ##
 
 To understand and estimate user sentiments over twitter to real news, we first need a lot of tweets. Our first task is to get as many as 10K tweets. 
 
@@ -14,7 +14,7 @@ Using the library tweepy, I have acquired the specified number of tweet. These t
 These data sets are present in the folder [Datasets](https://github.com/chyvn/tweetAnalysis/tree/master/DataSets).
 
 
-##Step 2: Clean the data.
+##Step 2: Clean the data. ##
 Once the data sets are cleaned using [script](https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/cleaning_new.py) the [cleaned data sets](https://github.com/chyvn/tweetAnalysis/tree/master/DataSets) are generated.
 
 
