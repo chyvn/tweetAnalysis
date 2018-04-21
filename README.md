@@ -17,6 +17,6 @@ Once the data sets are cleaned using [script(https://github.com/chyvn/tweetAnaly
 
 The data sets are then used to analyze [sentiments(https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/results.py)]. 
 
-These sentiment values are plotted in python using libraries [matplotlib(https://matplotlib.org/)], [mplleaflet(https://github.com/jwass/mplleaflet)]. And the resulting graphs can be seen in [html notebook results()].
+These sentiment values are plotted in python using libraries [matplotlib(https://matplotlib.org/)], [mplleaflet(https://github.com/jwass/mplleaflet)]. And the resulting graphs can be seen in [html notebook results(https://github.com/chyvn/tweetAnalysis/tree/master/Outputs/NotebooksHtml)].
 
-To present the work in web format, I have generated [json files()]. The [website()] is hosted [at()].
+To present the work in web format, I have generated [json files(https://github.com/chyvn/tweetAnalysis/blob/master/Outputs/output.json)]. The [website()] is hosted [at()].

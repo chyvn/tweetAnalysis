@@ -1,0 +1,9 @@
+Analyze the person with the maximum number of followers, his hash tags, his sentiment analysis. For each of the topics. By comparing all of them. 
+
+What is the most retweeted tweet. How are its counterparts doing comparitively. 
+
+Geographic distribution of the topics:
+1. Density by geography
+2. Sentiment values by geography
+3. Average sentiment value. 
+4. Where is the most popular guy from. 
