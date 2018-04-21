@@ -11,12 +11,12 @@ Instead of going for 10K tweets, I first got 500 tweets for sample. These tweets
 
 Using the library tweepy, I have acquired the specified number of tweet. These tweets were subsequently pushed to the mongoDB. 
 
-These data sets are present in the folder [Datasets(https://github.com/chyvn/tweetAnalysis/tree/master/DataSets)].
+These data sets are present in the folder [Datasets](https://github.com/chyvn/tweetAnalysis/tree/master/DataSets).
 
-Once the data sets are cleaned using [script(https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/cleaning_new.py)] the [cleaned data sets(https://github.com/chyvn/tweetAnalysis/tree/master/DataSets)] are generated.
+Once the data sets are cleaned using [script](https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/cleaning_new.py) the [cleaned data sets](https://github.com/chyvn/tweetAnalysis/tree/master/DataSets) are generated.
 
-The data sets are then used to analyze [sentiments(https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/results.py)]. 
+The data sets are then used to analyze [sentiments](https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/results.py). 
 
-These sentiment values are plotted in python using libraries [matplotlib(https://matplotlib.org/)], [mplleaflet(https://github.com/jwass/mplleaflet)]. And the resulting graphs can be seen in [html notebook results(https://github.com/chyvn/tweetAnalysis/tree/master/Outputs/NotebooksHtml)].
+These sentiment values are plotted in python using libraries [matplotlib](https://matplotlib.org/), [mplleaflet](https://github.com/jwass/mplleaflet). And the resulting graphs can be seen in [html notebook results](https://github.com/chyvn/tweetAnalysis/tree/master/Outputs/NotebooksHtml).
 
-To present the work in web format, I have generated [json files(https://github.com/chyvn/tweetAnalysis/blob/master/Outputs/output.json)]. The [website()] is hosted [at()].
+To present the work in web format, I have generated [json files](https://github.com/chyvn/tweetAnalysis/blob/master/Outputs/output.json). The [website]() is hosted [at]().
