@@ -1,6 +1,6 @@
 # twitterAnalysis #
 
-Complete Notebook link : https://drive.google.com/file/d/1V8Sl8WW_X7GuOuM-lJZ7oSwy0zfDF1jP/view?usp=sharing
+For complete code walk-through and analysis - Notebook link : https://drive.google.com/file/d/1V8Sl8WW_X7GuOuM-lJZ7oSwy0zfDF1jP/view?usp=sharing
 
 
 ## Step 1: Get tweets. ##
@@ -19,7 +19,7 @@ Once the data sets are cleaned using [script](https://github.com/chyvn/tweetAnal
 
 
 ## Step 3: Analyze the data.
-The data sets are then used to analyze [sentiments](https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/results.py). 
+The data sets are then used to analyze [sentiments](https://github.com/chyvn/tweetAnalysis/blob/master/Scripts/results.py). The top entities in tweets are found to be ['KXIPvCSK', 'TreCru', 'Syria', 'PremiosMTVMiaw', 'Hearties']. News realted to these topics is collected using [news api](https://newsapi.org/). The resulting news articles are saved in [json](https://github.com/chyvn/tweetAnalysis/tree/master/Outputs) format.
 
 ## Step 4: Presenting the analysis.
 These sentiment values are plotted in python using libraries [matplotlib](https://matplotlib.org/), [mplleaflet](https://github.com/jwass/mplleaflet). And the resulting graphs can be seen in [html notebook results](https://github.com/chyvn/tweetAnalysis/tree/master/Outputs/NotebooksHtml).
